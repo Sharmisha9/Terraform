@@ -35,4 +35,3 @@ jobs:
         id: apply
         run: terraform apply --auto-approve
         working-directory: ./Terraform-VPC
-        working-directory: ./Terraform-VPC
